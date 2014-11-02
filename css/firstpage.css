@@ -1,0 +1,42 @@
+        body{
+				background-color: black;
+				margin:0;
+				padding:0;
+				height: 100%;
+				width: 100%;
+			}	
+				
+			div#t{
+				
+				position:absolute;
+				top:100px;
+				left:200px;
+				
+				text-shadow:5px 5px 5px white;
+				
+				color: white;
+				
+				
+			}
+			div#s{
+				position:absolute;
+				top:130px;
+				left:200px;
+				
+				color: white;
+			}
+			
+			div#l{
+				position:absolute;
+				top:160px;
+				left:220px;
+				
+			}	 
+			
+			li{
+				display: inline;
+			}
+			a{
+				color: white;
+				 text-decoration: none;
+			}
